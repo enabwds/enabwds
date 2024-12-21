@@ -28,3 +28,4 @@ Welcome to my GitHub profile! I'm a student with an interest in operating system
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/YohannNihalani)
 [![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail)](mailto:nihalaniyohann2@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-333?style=flat&logo=discord)](https://discord.com/users/670944419834494976)
+[![Instagram](https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram)](https://www.instagram.com/enabwds)
