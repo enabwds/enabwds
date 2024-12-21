@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student with an interest in operating system
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning OS development
+- 🌱 I’m currently learning OS development and Rust
 - 📫 How to reach me: email or Discord
 - 😄 Pronouns: They/Them
   
