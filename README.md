@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a student with an interest in operating system
 
 - 🌱 I’m currently learning OS development and Rust
 - 📫 How to reach me: email or Discord
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: They/She/It/He
   
 ## 🔧 Technologies & Tools
 
