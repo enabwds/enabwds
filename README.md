@@ -1,4 +1,4 @@
-# Hi there, I'm enabwds! 👋
+# Hey, I'm enabwds! 👋
 
 Welcome to my GitHub profile! I'm a student with an interest in operating systems, cybersecurity and everything low-level.
 
